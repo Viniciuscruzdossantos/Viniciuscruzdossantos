@@ -49,7 +49,7 @@ Se você tem uma vaga de estágio, júnior ou jovem aprendiz, ou conhece alguém
 
 - **Automação:** n8n, APIs, integração com MySQL e IA
 - **Front-end:** HTML, CSS e JavaScript
-- **Linguagens:** Python, Java e C++
+- **Linguagens:** Python
 - **Design:** Blender, Photoshop e Lightroom
 - **Ferramentas:** pacote Microsoft (PowerPoint, Word e Excel) e Git/GitHub
 
