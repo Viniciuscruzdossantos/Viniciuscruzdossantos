@@ -31,7 +31,7 @@ Se você tem uma vaga de estágio, júnior ou jovem aprendiz, ou conhece alguém
 - 🎓 Formado em **Ciência da Computação** (UniDrummond Tatuapé)
 - 🛠️ Formação técnica em **Desenvolvimento de Sistemas** (ETEC de Guaianases) e curso de **Designer Gráfico**
 - 🧑‍🏫 Fui **Auxiliar Docente** na Etec de Itaquera 1 por 2 anos (2024 a 2026)
-- 🌎 Inglês avançado e espanhol básico
+- 🌎 Inglês  e espanhol 
 - 🌱 Aprendo construindo: cada projeto abaixo foi um desafio que eu fiz questão de personalizar
 
 ---
